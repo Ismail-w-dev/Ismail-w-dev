@@ -42,8 +42,6 @@ I'm a passionate Computer Science student specializing in **Web Development**. I
   
   ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ismail-w-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ismail-w-dev&theme=tokyonight&hide_border=true)
-  
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ismail-w-dev&layout=compact&theme=tokyonight&hide_border=true)
   
 </div>
@@ -63,8 +61,7 @@ I'm a passionate Computer Science student specializing in **Web Development**. I
 ---
 
 <div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=Ismail-w-dev&color=blueviolet&style=flat-square)
+
   
   **💬 "Code is like humor. When you have to explain it, it's bad." – Cory House**
   
