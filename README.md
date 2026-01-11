@@ -35,13 +35,6 @@ I'm a passionate Computer Science student specializing in **Web Development**. I
 
 </div>
 
-## 🔥 Current Focus
-
-- Building a strong foundation in data structures, algorithms, and software engineering principles
-- Developing real-world projects to apply knowledge and solve practical problems
-- Exploring modern web technologies and frameworks to stay current with industry trends
-- Strengthening problem-solving skills through competitive programming and coding challenges
-
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismail-el-bahloul/)
