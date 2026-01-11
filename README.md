@@ -64,7 +64,7 @@ I'm a passionate Computer Science student specializing in **Web Development**. I
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square)
+  ![Profile Views](https://komarev.com/ghpvc/?username=Ismail-w-dev&color=blueviolet&style=flat-square)
   
   **💬 "Code is like humor. When you have to explain it, it's bad." – Cory House**
   
