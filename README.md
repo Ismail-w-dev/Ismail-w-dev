@@ -37,10 +37,10 @@ I'm a passionate Computer Science student specializing in **Web Development**. I
 
 ## 🔥 Current Focus
 
-- Building responsive and interactive web applications
-- Exploring modern web frameworks and libraries
-- Strengthening data structures and algorithms
-- Contributing to open-source projects
+- Building a strong foundation in data structures, algorithms, and software engineering principles
+- Developing real-world projects to apply knowledge and solve practical problems
+- Exploring modern web technologies and frameworks to stay current with industry trends
+- Strengthening problem-solving skills through competitive programming and coding challenges
 
 ## 📫 Let's Connect
 
