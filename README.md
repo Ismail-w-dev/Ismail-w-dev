@@ -1,19 +1,23 @@
-# Hi there, I'm Ismail 👋
+# Hi there, I'm [Your Name] 🕷️
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Web+Developer;Full+Stack+Enthusiast;Always+Learning+New+Things)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Web+Developer+%7C+CTF+Player;Full+Stack+Enthusiast;With+Great+Power+Comes+Great+Responsibility)
   
 </div>
 
+> *"With great code comes great responsibility"* 🕸️
+
 ## 🚀 About Me
 
-I'm a passionate Computer Science student specializing in **Web Development**. I enjoy building dynamic web applications and exploring new technologies to create impactful solutions.
+I'm a passionate Computer Science student specializing in **Web Development** with a love for **Cybersecurity** and **CTF competitions**. Like Spiderman swinging through the city, I navigate through code to build dynamic web applications and solve complex challenges.
 
 - 🎓 Currently pursuing my degree in Computer Science
 - 💻 Focused on full-stack web development
+- 🏆 CTF Competition Winner - Competed with my team and earned certificates
+- 🕷️ Spiderman enthusiast - believing that with great code comes great responsibility
+- 🔐 Passionate about cybersecurity and ethical hacking
 - 🌱 Always learning and expanding my skill set
-- 🔭 Working on exciting web projects
 - 💡 Open to collaborating on innovative ideas
 
 ## 🛠️ Tech Stack
@@ -36,13 +40,38 @@ I'm a passionate Computer Science student specializing in **Web Development**. I
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+## 🛡️ CTF & Cybersecurity
+
+<div align="center">
+
+🏆 **CTF Competition Winner** 🏆
+
+</div>
+
+I actively participate in **Capture The Flag (CTF)** competitions, combining my web development skills with cybersecurity knowledge to solve challenging puzzles and vulnerabilities.
+
+**Achievements:**
+- 🥇 Won CTF competition with my team
+- 📜 Earned cybersecurity certificates
+- 🔍 Skilled in web exploitation, cryptography, and reverse engineering
+- 🤝 Team player with strong problem-solving abilities
+
+**CTF Skills:**
+- Web Security & Exploitation
+- Network Analysis
+- Cryptography Challenges
+- Binary Exploitation
+- Forensics
+
 ## 📊 GitHub Stats
 
 <div align="center">
   
-  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ismail-w-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ismail-w-dev&layout=compact&theme=tokyonight&hide_border=true)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
   
 </div>
 
@@ -51,18 +80,30 @@ I'm a passionate Computer Science student specializing in **Web Development**. I
 - Building responsive and interactive web applications
 - Exploring modern web frameworks and libraries
 - Strengthening data structures and algorithms
+- Participating in CTF competitions and cybersecurity challenges
 - Contributing to open-source projects
+
+```
+    🕷️
+   /||\    "Just your friendly neighborhood developer"
+    ||
+   /  \
+```
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismail-el-bahloul/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ismailelbahloul100@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
 
 ---
 
 <div align="center">
-
   
-  **💬 "Code is like humor. When you have to explain it, it's bad." – Cory House**
+  ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=red&style=flat-square)
+  
+  **🕷️ "With great code comes great responsibility"**
+  
+  *Keep swinging forward, one commit at a time!* 🕸️
   
 </div>
