@@ -1,67 +1,58 @@
-# Hi there, I'm [Your Name] 🕷️
+# Hi there, I'm [Your Name] 👋
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Web+Developer+%7C+CTF+Player;Full+Stack+Enthusiast;With+Great+Power+Comes+Great+Responsibility)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Full+Stack+Web+Developer;CTF+Competitor;Building+Secure+Web+Applications)
   
 </div>
 
-> *"With great code comes great responsibility"* 🕸️
+## 👨‍💻 About Me
 
-## 🚀 About Me
+I'm a Computer Science student specializing in **Full-Stack Web Development** with a strong focus on building secure, scalable, and user-friendly applications. My experience in **CTF competitions** has sharpened my security mindset, allowing me to develop robust web solutions with security best practices built-in from the ground up.
 
-I'm a passionate Computer Science student specializing in **Web Development** with a love for **Cybersecurity** and **CTF competitions**. Like Spiderman swinging through the city, I navigate through code to build dynamic web applications and solve complex challenges.
-
-- 🎓 Currently pursuing my degree in Computer Science
-- 💻 Focused on full-stack web development
-- 🏆 CTF Competition Winner - Competed with my team and earned certificates
-- 🕷️ Spiderman enthusiast - believing that with great code comes great responsibility
-- 🔐 Passionate about cybersecurity and ethical hacking
-- 🌱 Always learning and expanding my skill set
-- 💡 Open to collaborating on innovative ideas
+- 🎓 Computer Science Student
+- 💻 Full-Stack Web Developer
+- 🔐 Security-conscious developer with CTF competition experience
+- 🚀 Passionate about creating performant and accessible web applications
+- 🌱 Continuously learning modern web technologies and frameworks
+- 🤝 Open to collaboration on innovative web projects
 
 ## 🛠️ Tech Stack
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-### Web Technologies
+### Frontend Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Tools & Platforms
+### Backend Development
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### Tools & Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 🛡️ CTF & Cybersecurity
+## 💡 What Sets Me Apart
 
-<div align="center">
+**Security-First Development Approach**
 
-🏆 **CTF Competition Winner** 🏆
+My experience competing in **Capture The Flag (CTF)** competitions has given me a unique edge as a web developer. I don't just build applications—I build them with security in mind from day one.
 
-</div>
-
-I actively participate in **Capture The Flag (CTF)** competitions, combining my web development skills with cybersecurity knowledge to solve challenging puzzles and vulnerabilities.
-
-**Achievements:**
-- 🥇 Won CTF competition with my team
-- 📜 Earned cybersecurity certificates
-- 🔍 Skilled in web exploitation, cryptography, and reverse engineering
-- 🤝 Team player with strong problem-solving abilities
-
-**CTF Skills:**
-- Web Security & Exploitation
-- Network Analysis
-- Cryptography Challenges
-- Binary Exploitation
-- Forensics
+**Key Strengths:**
+- 🔒 Deep understanding of web vulnerabilities and how to prevent them
+- 🧩 Strong problem-solving skills honed through competitive security challenges
+- 👥 Effective team collaboration and communication
+- ⚡ Ability to write clean, efficient, and secure code
+- 🎯 Focus on both functionality and security in every project
 
 ## 📊 GitHub Stats
 
@@ -77,18 +68,12 @@ I actively participate in **Capture The Flag (CTF)** competitions, combining my 
 
 ## 🔥 Current Focus
 
-- Building responsive and interactive web applications
-- Exploring modern web frameworks and libraries
-- Strengthening data structures and algorithms
-- Participating in CTF competitions and cybersecurity challenges
+- Building responsive, accessible, and performant web applications
+- Exploring modern JavaScript frameworks and libraries
+- Implementing security best practices in web development
+- Strengthening full-stack development skills
 - Contributing to open-source projects
-
-```
-    🕷️
-   /||\    "Just your friendly neighborhood developer"
-    ||
-   /  \
-```
+- Continuously improving code quality and architecture
 
 ## 📫 Let's Connect
 
@@ -100,10 +85,8 @@ I actively participate in **Capture The Flag (CTF)** competitions, combining my 
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=red&style=flat-square)
+  ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=flat-square)
   
-  **🕷️ "With great code comes great responsibility"**
-  
-  *Keep swinging forward, one commit at a time!* 🕸️
+  *"Building the web, one secure line of code at a time."*
   
 </div>
