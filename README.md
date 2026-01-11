@@ -20,7 +20,7 @@ I'm a passionate Computer Science student specializing in **Web Development**. I
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,php,laravel,java,c,django,nodejs,mysql,git,github,unity&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,php,java,c,mysql,git,github,unity&theme=dark)](https://skillicons.dev)
 
 </div>
 
