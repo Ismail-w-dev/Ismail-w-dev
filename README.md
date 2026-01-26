@@ -27,7 +27,7 @@ I'm a passionate Computer Science student specializing in **Web Development**. I
 
 ## 📊 GitHub Stats
 
-<div>
+<div align="center">
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ismail-w-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
