@@ -31,7 +31,7 @@ I'm a passionate Computer Science student specializing in **Web Development**. I
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ismail-w-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ismail-w-dev&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ismail-w-dev&layout=compact&theme=tokyonight&hide_border=false)
 
 </div>
 
