@@ -39,7 +39,7 @@ I'm a passionate Computer Science student specializing in **Web Development**. I
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismail-el-bahloul/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ismailelbahloul100@gmail.com)
-
+![](https://komarev.com/ghpvc/?username=Ismail-w-dev&style=flat-square)
 ---
 
 <div align="center">
